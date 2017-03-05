@@ -4,3 +4,6 @@
 .DS_Store
 .gradle/
 local.properties
+.classpath
+.project
+.settings/
